@@ -1,0 +1,26 @@
+{
+  "name": "Simple PWA",
+  "short_name": "Simple PWA",
+  "description": "It is a SPA app created using React with the feature of PWA",
+  "start_url": "http://localhost:8080/",
+  "display": "standalone",
+  "theme_color": "hwb(60 0% 40%)",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/pwa-192x192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "/pwa-512x512.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "192x192",
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
