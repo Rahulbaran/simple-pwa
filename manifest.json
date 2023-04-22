@@ -2,7 +2,7 @@
   "name": "Simple PWA",
   "short_name": "Simple PWA",
   "description": "It is a SPA app created using React with the feature of PWA",
-  "start_url": "http://localhost:8080/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "hwb(60 0% 40%)",
   "icons": [
